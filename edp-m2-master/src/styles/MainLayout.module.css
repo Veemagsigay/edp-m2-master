@@ -1,0 +1,21 @@
+.mainlayout {
+    display: flex;
+    height:170vh;
+}
+
+.sidebarContainer {
+    flex:20%;
+    background-color: #355738;
+    
+}
+
+.contentContainer {
+    flex:80%;
+    background-color: #E7EFE6;
+    ;
+}
+
+.box-icon-wrapper box-icon {
+    display: block;
+    margin: 0 auto;
+}
